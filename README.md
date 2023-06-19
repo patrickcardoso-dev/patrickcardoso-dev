@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=30&center=false&vCenter=true&width=1000&lines=Hello,+world!+👋)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=30&center=false&vCenter=true&width=1000&lines=Hello,+world!+👋)
 
 - 👨🏽‍💻 I'm fascinated by innovative solutions to everyday challenges and improving society;
 - 📕 I'm currently studying Software Development at [Cubos Academy](https://cubos.academy);
