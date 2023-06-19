@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=30&center=false&vCenter=true&width=1000&lines=Hello,+world!+👋)
+## Hello, world!👋
 
 - 👨🏽‍💻 I'm fascinated by innovative solutions to everyday challenges and improving society;
 - 📕 I'm currently studying Software Development at [Cubos Academy](https://cubos.academy);
-- 😄 Fun fact: I'm a gastronome with a Master's degree in Food, Nutrition and Health, so... I'm a foodie.
+- 😄 Fun fact: I'm a gastronome with a Master's degree in Food, Nutrition, and Health, so... I'm a foodie.
 
 ### I work with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
