@@ -1,4 +1,4 @@
-## Hello, world!👋
+## Hello, world! I'm Patrick 👋
 
 - 👨🏽‍💻 I'm fascinated by innovative solutions to everyday challenges and improving society;
 - 📕 I'm currently studying Software Development at [Cubos Academy](https://cubos.academy);
